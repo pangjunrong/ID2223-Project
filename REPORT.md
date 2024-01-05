@@ -8,4 +8,5 @@ The data used for this project is extracted using HomeHarvest, an open-source sc
 
 In this project, the magnitude of “undervaluedness” can serve as a clear indication to investment analysts that certain properties are worth more to look into within a locale. The primary algorithm we employed is XGBoost Regression, and the past 180 days of residential property data in New York was used to train the model. The testing data was extracted from a more recent day not within the 180 days of training data, and preliminary results indicate a 99.6% model performance.
 
-## Running The Code 
+## Running The Code
+You 

@@ -4,6 +4,8 @@ Group DLLM - Pang Jun Rong & Lachun Li
 ## Public UI URL
 https://huggingface.co/spaces/jaydxn1/NY-Residential-Property-Valuation
 
+You may use the provided inference_test.csv file to test; alternatively you may use the scraper.py to generate a new set of data points (past_days=1) for valuation.
+
 ## Overview
 In many real estate investment firms, deal sourcing is a laborious and time-consuming task requiring extensive analyses of the local market. The due diligence is conducted based on past financial indicators retrieved from third-party market data vendors, and analysts are expected to perpetually update their figures with respect to market volatility for the most informed decision-making to take place. By building a serverless ML system, we can automatically identify potential deals based on streams providing the latest financial data – increasing the efficiency of deal sourcing and providing new business opportunities previously overlooked or undiscovered by investment professionals.
 
